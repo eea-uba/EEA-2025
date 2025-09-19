@@ -79,3 +79,13 @@ Trabajo con datasets (`dplyr` y  `tidyr`), fechas (`lubridate`), strings (`strin
 - [Clase 4 - Cuaderno HTML](<clase 4/clase 4.html>)
 - [Clase 4 (.qmd)](<clase 4/clase 4.qmd>)
 
+
+### Clase 5: Linealización, evaluación y diagnóstico
+
+#### Presentación
+
+- [Clase 5 - Presentación](<clase 5/clase 5 pres.pdf>)
+
+#### Ejercicios
+
+- [Ejercicio de regresión lineal](<clase 5/enunciado ejercicio clase 5.md>)

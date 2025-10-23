@@ -90,7 +90,18 @@ Trabajo con datasets (`dplyr` y  `tidyr`), fechas (`lubridate`), strings (`strin
 
 - [Ejercicio de regresión lineal](<clase 5/enunciado ejercicio clase 5.md>)
 
-### Clase 9: Regresión Logística
+### Clase 6: Regresión Lineal Múltiple I
+
+- [Regresión Lineal Múltiple parte I](<clase 6/clase6.pdf)
+- [Base de datos](https://raw.githubusercontent.com/eea-uba/EEA-2025/refs/heads/main/clase%206/properati_preprocesado_2022.csv)
+
+### Clase 7: Regresión Lineal Múltiple II
+
+- [Regresión Lineal Múltiple parte II](<clase 7/Clase 7 - Regresion Lineal Multiple II.pdf)
+
+
+
+### Clase 8: Regresión Logística
 
 - [Regresión Logística](https://eea-uba.github.io/EEA-2025/clase%209/regLogistica.html)
 - [Base de datos](https://raw.githubusercontent.com/eea-uba/EEA-2025/refs/heads/main/clase%209/cardio_train.csv)

@@ -105,3 +105,10 @@ Trabajo con datasets (`dplyr` y  `tidyr`), fechas (`lubridate`), strings (`strin
 
 - [Regresión Logística](https://eea-uba.github.io/EEA-2025/clase%209/regLogistica.html)
 - [Base de datos](https://raw.githubusercontent.com/eea-uba/EEA-2025/refs/heads/main/clase%209/cardio_train.csv)
+
+
+### Clase 10: Regresión bayesiana
+
+#### Apuntes
+
+- [Clase 10 - Cuaderno HTML](<clase 10/clase 10.html>)

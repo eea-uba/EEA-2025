@@ -117,3 +117,8 @@ Trabajo con datasets (`dplyr` y  `tidyr`), fechas (`lubridate`), strings (`strin
 
 - [Regularización](https://eea-uba.github.io/EEA-2025/clase%2011/regularizacion.html)
 - [Base de datos](https://github.com/eea-uba/EEA-2025/raw/refs/heads/main/clase%2011/player_stats.csv)
+
+### Clase 12: Causalidad
+
+- [Cuestionario 1](https://forms.gle/Ngsjy39nUaMMhrXr5)
+- [Cuestionario 2](https://forms.gle/BbX1fznMjaEgLnNJA)

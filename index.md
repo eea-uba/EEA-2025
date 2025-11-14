@@ -123,10 +123,12 @@ Trabajo con datasets (`dplyr` y  `tidyr`), fechas (`lubridate`), strings (`strin
 - [Clase 12 - Causalidad 1](Inferencia Causal - Clase 1.pdf)
 - [Clase 12 - Causalidad 1 - clase completa](Inferencia Causal - Clase 1 - Completa.pdf)
 - [Cuestionario 1](https://forms.gle/Ngsjy39nUaMMhrXr5)
-- [Cuestionario 2](https://forms.gle/BbX1fznMjaEgLnNJA)
+
 
 ### Clase 13: Causalidad II
 
-- [dataset oliva](oliva.csv)
-- [dataset hongos](hongos.csv)
+- [Cuestionario 2](https://forms.gle/BbX1fznMjaEgLnNJA)
+- [dataset oliva](clase13/oliva.csv)
+- [dataset hongos](clase13/hongos.csv)
+
 

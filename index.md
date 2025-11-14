@@ -127,8 +127,10 @@ Trabajo con datasets (`dplyr` y  `tidyr`), fechas (`lubridate`), strings (`strin
 ### Clase 13: Causalidad II
 
 - [Cuestionario 2](https://forms.gle/BbX1fznMjaEgLnNJA)
+- [Actividad en R - enunciado](clase13/CausalidadActividadR.pdf)
 - [dataset oliva](clase13/oliva.csv)
 - [dataset hongos](clase13/hongos.csv)
+
 
 
 
